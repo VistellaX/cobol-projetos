@@ -1,3 +1,4 @@
-COBOL PROJETOS
 
-Códigos escritos em Cobol para aprendizado e treinamento.
+COBOL PROJECTS
+
+Code written in COBOL for learning and training.
